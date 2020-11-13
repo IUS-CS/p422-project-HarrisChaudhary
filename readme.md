@@ -1,4 +1,4 @@
-# P422 Project (REPLACE ME)
+# Snake Game
 
 Here, you should put your project proposal. It should be written in english text and describe what you intend to build along with any information necessary. Please use proper markdown formatting. You can find a guide here: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
 
