@@ -1,11 +1,15 @@
-# Snake Game
+# Calendar
 
-Here, you should put your project proposal. It should be written in english text and describe what you intend to build along with any information necessary. Please use proper markdown formatting. You can find a guide here: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+For my Project in P422, I will develop a Calendar on which you can add/view events. My program will save the events/data entered on each specific date and will highlight how many events were saved on each specific date. 
+What I plan to have done by the end of the semester is to have a calendar that saves events on days you select and displays months and years to come. My program's interface would be simple to use with one side displaying the 
+calendar, and the other side displaying the area from which you can view/add your events. I will use Angular CLI in WebStorm to develop this program. Languages I will use are TypeScript, JavaScript, CSS, and HTML. 
 
-Your project should have the following requirements met:
+This project was generated with [Angular CLI].
 
-* A server side component written with javascript that stores information in a database
-* A client side component written in Angular
-* At least four different interactive views for the client
+![Demo 1](images/Calendar.png?raw=true "Demo 1")
 
-You may choose whatever kid of project you like within the ethical guidlines of the university. Commit your propasal to this file and we will discuss your project idea if it needs improvement.
+#### Development server
+
+Run `ng serve` in terminal to run the project. Copy paste `http://localhost:4200/` In your browser to run the program.
+
+

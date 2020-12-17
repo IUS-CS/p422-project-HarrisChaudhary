@@ -1,0 +1,48 @@
+.day-details
+{
+  width: 250px;
+  height: 100%;
+  padding: 100px 30px 30px;
+  margin-left: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 20px;
+  background: rgba(230, 230, 230, 0.6);
+}
+
+.addEvent
+{
+  height: 30px;
+  padding: 10px;
+  margin-right: 10px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+}
+
+.button
+{
+  width: 30px;
+  height: 30px;
+  color: #fff;
+  text-align: center;
+  line-height: 2;
+  outline: none;
+  border: none;
+  border-radius: 50%;
+  background: #343F4B;
+}
+
+
+.wrapper
+{
+  text-align: center;
+}
+
+.day
+{
+  font-size: 70px;
+}
+
